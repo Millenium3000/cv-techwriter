@@ -114,7 +114,7 @@ body{
 
 .tech-skills-iten {
   
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 400;
     line-height: 24px;
     margin-left: 13px;
@@ -130,7 +130,7 @@ body{
 }
 
 .soft-skills-container {
-  
+  /* text-align: center; */
     justify-content: center;
     align-content: center;
     margin-left: 40px;
@@ -152,7 +152,7 @@ body{
 .soft-skills-iten {
   
   
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 400;
     line-height: 24px;
     margin-left: 13px;
@@ -167,7 +167,7 @@ body{
 
 .profession {
   color: #2a52be;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 700;
     line-height: 24px;
     
@@ -188,7 +188,7 @@ body{
 
 .description {
   color: #2a52be;
-    font-size: 18px;
+    font-size: 22px;
     font-weight: 400;
     line-height: 24px;
     margin-top: 24px;
@@ -211,14 +211,14 @@ body{
 
 .projects-link {
     color: #fff;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 400;
     line-height: 24px;
 }
 
 .tech-name {
     color: #595959;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 400;
     line-height: 24px;
 }
@@ -249,7 +249,7 @@ body{
 } */
 
 .profession-title {
-    font-size: 16px;
+    font-size: 22px;
     font-weight: 700;
     line-height: 24px;
     margin-top: 10px;
@@ -261,13 +261,13 @@ body{
   color: #2a52be;
     line-height: 1.2;
     margin-bottom: 5px;
-    font-size: 18px;
+    font-size: 20px;
     
 }
 
 .profession-time {
   color: #2a52be;
-    font-size: 12px;
+    font-size: 16px;
     font-weight: 400;
     line-height: 24px;
 }
@@ -277,7 +277,7 @@ body{
 }
 
 .profession-duties {
-    margin-top: 14px;
+    margin-top: 18px;
     margin-bottom: 30px;
     font-size: 18px;
     color: #2a52be;
@@ -286,7 +286,7 @@ body{
 
 .profession-duties-iten {
   color: #2a52be;
-    font-size: 18px;
+    font-size: 20px;
     font-weight: 400;
     line-height: 24px;
 
@@ -294,7 +294,7 @@ body{
 
 .profession-title-hierarchy {
   color: #2a52be;
-    font-size: 14px;
+    font-size: 20px;
     font-weight: 700;
     line-height: 24px;   
     align-items: center;
